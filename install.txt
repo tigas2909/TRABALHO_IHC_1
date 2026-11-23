@@ -1,0 +1,28 @@
+# API
+fastapi
+uvicorn[standard]
+
+# Documentação OpenAPI
+pydantic
+
+# Google Gemini
+google-genai
+
+# Reconhecimento de voz
+vosk
+openai-whisper
+
+# Áudio
+sounddevice
+soundfile
+numpy
+
+# Processamento de texto
+rapidfuzz
+
+# HTTP
+requests
+httpx
+
+#lib gerais
+smtplib

@@ -1,0 +1,62 @@
+ .env.example                                    |   14 [31m-[m
+ .exemple.env                                    |    8 [32m+[m
+ LICENSE                                         |  201 [31m--[m
+ NOTICE                                          |    4 [31m-[m
+ README.md                                       |  704 [31m----[m
+ aruivos/contexto_para_Ia/resumo_ordem.txt       |   33 [32m+[m
+ aruivos/dicionario/dicionario.txt               |   18 [32m+[m
+ aruivos/emails/emails.txt                       |    1 [32m+[m
+ ...ograma do Sistema de Legendagem e Resumo.png |  Bin [31m0[m -> [32m1418873[m bytes
+ aruivos/informacoes/README.md                   |  448 [32m+++[m
+ aruivos/resumo/teste.txt                        |    2 [32m+[m
+ aruivos/resumo_pdf/teste_envio_email.pdf        |   74 [32m+[m
+ .../aula_2026-11-23_15-44-06-880083.json        |   33 [32m+[m
+ aruivos/transcricoes/teste.json                 |    3 [32m+[m
+ dados/transcricoes/.gitkeep                     |    0
+ ferramentas/automatico.py                       |  122 [31m-[m
+ ferramentas/baixar_modelos.py                   |  117 [31m-[m
+ ferramentas/gerar_esquema.py                    |  857 [31m-----[m
+ install.sh                                      |   51 [31m-[m
+ interface/app.js                                | 3119 [31m-----------------[m
+ interface/audio-professor.js                    |  226 [31m--[m
+ interface/index.html                            |  462 [31m---[m
+ interface/microfone-remoto.js                   | 1077 [31m------[m
+ interface/professor.html                        |  901 [31m-----[m
+ interface/professor.js                          |  814 [31m-----[m
+ interface/style.css                             |  915 [31m-----[m
+ robo/__init__.py                                |    1 [31m-[m
+ robo/agente.py                                  |  363 [31m--[m
+ robo/aula.py                                    |  332 [31m--[m
+ robo/base.py                                    |  199 [32m+[m[31m-[m
+ robo/cerebro.py                                 | 2091 [31m-----------[m
+ robo/comandos.py                                |  191 [31m-[m
+ robo/comandos/comandos.py                       |  108 [32m+[m[31m-[m
+ robo/comandos/modos.py                          |    5 [32m+[m[31m-[m
+ robo/config.py                                  | 1290 [31m-------[m
+ robo/config_audio.py                            |  118 [31m-[m
+ robo/email.py                                   |  523 [31m---[m
+ robo/escuta.py                                  |  390 [31m---[m
+ robo/esquema_resumo.json                        | 1563 [31m---------[m
+ robo/funcoes/analise.py                         |   38 [32m+[m
+ robo/funcoes/email.py                           |   47 [32m+[m[31m-[m
+ robo/funcoes/salvarAula.py                      |   63 [32m+[m
+ robo/marcas.py                                  |  121 [31m-[m
+ robo/microfone.py                               |  752 [31m----[m
+ robo/microfone_remoto.py                        |  721 [31m----[m
+ robo/ouvido.py                                  |  123 [31m-[m
+ robo/pdf.py                                     |  686 [31m----[m
+ robo/personalidade.txt                          | 1363 [31m-------[m
+ robo/servidor.py                                |   81 [31m-[m
+ robo/transcricao.py                             |   84 [31m-[m
+ robo/validador.py                               |  546 [31m---[m
+ robo/whisper.py                                 | 1179 [31m-------[m
+ test_web.py                                     | 2098 [31m-----------[m
+ dados/relatorios/.gitkeep => teste.py           |    0
+ testes/__init__.py                              |    0
+ testes/test_agente.py                           |  284 [31m--[m
+ testes/test_aula.py                             |  155 [31m-[m
+ testes/test_comandos.py                         |  194 [31m-[m
+ testes/test_email.py                            |  327 [31m--[m
+ testes/test_pdf.py                              |  228 [31m--[m
+ testes/test_validador.py                        |  472 [31m---[m
+ 61 files changed, 938 insertions(+), 26002 deletions(-)

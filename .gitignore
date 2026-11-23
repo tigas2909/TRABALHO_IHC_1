@@ -1,0 +1,13 @@
+# Credenciais
+.env
+
+# E-mails dos alunos
+**/email.txt
+
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+

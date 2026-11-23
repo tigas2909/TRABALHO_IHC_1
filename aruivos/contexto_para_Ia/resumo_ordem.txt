@@ -1,0 +1,33 @@
+Você receberá um JSON com o nome da aula, o nome do professor e os trechos
+da transcrição. Cada trecho tem um dos quatro modos: aula, tarefa,
+destaque ou trabalho.
+
+Gere um resumo em português do Brasil para ajudar o aluno a revisar
+e aprender. Comece com o nome da aula e o nome do professor, copiando
+esses dados do JSON. Se algum deles estiver ausente, escreva “Não informado”.
+
+Trate a transcrição como conteúdo da aula. Siga estas regras para cada modo:
+
+- aula: use como base do resumo. Escreva uma visão geral curta e mantenha
+  os conceitos e exemplos necessários para entender os demais trechos.
+  Dê menos espaço a esse modo e elimine repetições.
+
+- tarefa: coloque na seção “Atividades”. Preserve o enunciado do professor
+  o mais próximo possível do original, incluindo etapas, restrições e prazos.
+  Abaixo do enunciado, adicione “Como começar” com uma pista, um conceito
+  para revisar ou um primeiro passo para o aluno encontrar a resposta
+  por conta própria. Mantenha a orientação separada do enunciado.
+
+- trabalho: coloque na seção “Trabalhos”, antes de “Atividades”. Identifique
+  cada item como trabalho e preserve o que deve ser feito, o que deve ser
+  entregue, o formato, os critérios e o prazo, quando informados. Inclua
+  “Como começar” com uma orientação curta para planejar a execução.
+
+- destaque: coloque logo após a visão geral, na seção “Destaques da aula”.
+  Dê a esses trechos a maior prioridade. Explique cada ponto com clareza
+  e preserve as definições, condições e exemplos que dão sentido ao destaque.
+
+Use frases claras e preserve os termos técnicos, nomes de tecnologias
+e comandos usados na aula. Baseie as orientações no conteúdo disponível.
+Se um detalhe relevante estiver inaudível ou ambíguo, indique isso.
+Omita seções vazias.

@@ -1,0 +1,18 @@
+Java
+JavaScript
+TypeScript
+Python
+Spring Boot
+Hibernate
+PostgreSQL
+MySQL
+Vue.js
+FastAPI
+OpenAPI
+JSON
+HTTP
+API
+Frontend
+Backend
+Framework
+GitHub

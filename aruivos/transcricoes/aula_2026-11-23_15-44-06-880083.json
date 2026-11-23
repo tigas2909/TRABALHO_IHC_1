@@ -1,0 +1,33 @@
+{
+    "id": "2026-11-23T15:44:06.880083",
+    "materia": "teste",
+    "professor": "Tiago",
+    "legendas": [
+        {
+            "id": 0,
+            "modo": "aula",
+            "legenda": "o teste de hj e sobre a o teste desse trabalho"
+        },
+        {
+            "id": 1,
+            "modo": "trabalho",
+            "legenda": "o trabalho e finalizar tudo esse trabalho"
+        },
+        {
+            "id": 2,
+            "modo": "atividade",
+            "legenda": "teste"
+        },
+        {
+            "id": 3,
+            "modo": "atividade",
+            "legenda": "monte um teste"
+        },
+        {
+            "id": 4,
+            "modo": "destaque",
+            "legenda": "monte o teste"
+        }
+    ],
+    "ativo": false
+}
