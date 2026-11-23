@@ -391,8 +391,8 @@ O desenvolvimento está sendo realizado por componentes, permitindo testar cada 
 - [ ] Revisão periódica das transcrições com IA.
 - [ ] Geração automática dos resumos.
 - [ ] Integração completa da geração de PDFs.
-- [ ] Envio automático dos documentos por e-mail.
-- [ ] Armazenamento local de todos os arquivos.
+- [X] Envio automático dos documentos por e-mail.
+- [X] Armazenamento local de todos os arquivos.
 - [ ] Tratamento de falhas de envio.
 - [ ] Testes de integração.
 - [ ] Validação do sistema completo.
