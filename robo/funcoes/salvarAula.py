@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-PASTA_AULAS = Path(__file__).resolve().parents[2] / "aruivos" / "transcricoes"
+PASTA_AULAS = Path(__file__).resolve().parents[2] / "arquivos" / "transcricoes"
 
 def criar_aula(materia: str, professor: str, inicio: datetime) -> dict:
     return {

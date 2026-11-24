@@ -1,13 +1,14 @@
-# Credenciais
 .env
-
-# E-mails dos alunos
-**/email.txt
-
-# Ambiente virtual
 .venv/
-
-# Cache do Python
 __pycache__/
 *.pyc
 
+arquivos/emails/
+arquivos/resumo/
+arquivos/resumo_pdf/
+arquivos/transcricoes/
+
+aruivos/emails/
+aruivos/resumo/
+aruivos/resumo_pdf/
+aruivos/transcricoes/

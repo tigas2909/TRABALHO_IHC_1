@@ -8,9 +8,11 @@ pydantic
 # Google Gemini
 google-genai
 
+# Variáveis de ambiente
+python-dotenv
+
 # Reconhecimento de voz
 vosk
-openai-whisper
 
 # Áudio
 sounddevice
@@ -24,5 +26,5 @@ rapidfuzz
 requests
 httpx
 
-#lib gerais
-smtplib
+#gerar pdf
+reportlab
